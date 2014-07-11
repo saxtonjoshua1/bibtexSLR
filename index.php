@@ -1,8 +1,13 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>
+            Purpose - BibtexSLR
+        </h1>
+    <p>Bibtex SLR is a program to search databases and augment bibtex entries to help
+        users perform systematic literature reviews.</p>
+    
+    
+    </body>
+</html>
 
